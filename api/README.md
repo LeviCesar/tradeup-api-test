@@ -23,7 +23,6 @@ python -m pip install -r requirements.txt
 fastapi dev main.py
 ```
 
-
 ## 📫 Contribuindo para TradeUp API Test
 
 Para contribuir com "TradeUp API Test", siga estas etapas:
