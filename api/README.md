@@ -23,6 +23,10 @@ python -m pip install -r requirements.txt
 fastapi dev main.py --port 8080
 ```
 
+é possivel acessar a documentação da API por um desses links:
+- http://localhost:8080/docs
+- http://localhost:8080/redoc
+
 ## 📫 Contribuindo para TradeUp API Test
 
 Para contribuir com "TradeUp API Test", siga estas etapas:

@@ -13,6 +13,14 @@
 
 Projeto desenvolvido como um teste de entrevista para empresa [TradeUp](https://www.tradeupgroup.com/) tem por objectivo criar um SPA.
 
+![alt text](static_readme/front-home.png)
+
+![alt text](static_readme/front-search.png)
+
+![alt text](static_readme/api-doc.png)
+
+![alt text](static_readme/api-redoc.png)
+
 ## 📫 Contribuindo para TradeUp API Test
 
 Para contribuir com "TradeUp API Test", siga estas etapas:

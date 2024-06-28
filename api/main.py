@@ -2,7 +2,10 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from routers import address
 
-api = FastAPI()
+api = FastAPI(
+    title="SPA API",
+    version="1.0.0"
+)
 
 api.add_middleware(
     CORSMiddleware,
