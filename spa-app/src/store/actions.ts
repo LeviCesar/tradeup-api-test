@@ -1,0 +1,1 @@
+export const GET_CEP_INFOS = 'GET_CEP_INFOS'

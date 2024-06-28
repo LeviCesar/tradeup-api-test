@@ -3,25 +3,15 @@
 ![Static Badge](https://img.shields.io/badge/Python-3.8%7C3.9%7C3.10-blue?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Requests-2.31-blue?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/FastAPI-0.111.0-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Node-20.13.1-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/VueJs-3.0-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Vuex-4.0.2-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Vue%20Router-4.4.0-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Axios-1.7.2-blue?style=for-the-badge)
 
 # Sobre o projeto
 
-Projeto desenvolvido como um teste de entrevista para empresa [TradeUp](https://www.tradeupgroup.com/) que tem por objetivo capturar as informações da api [ViaCep](https://viacep.com.br/) e retorna-las para um front.
-
-# Como executar o projeto
-Pré-Requisito: Python 3.8+
-
-```bash
-git clone https://github.com/LeviCesar/tradeup-test.git
-
-cd tradeup-test/api
-
-python3 -m virtualenv env
-source env/bin/activate
-python -m pip install -r requirements.txt
-
-fastapi dev main.py --port 8080
-```
+Projeto desenvolvido como um teste de entrevista para empresa [TradeUp](https://www.tradeupgroup.com/) tem por objectivo criar um SPA.
 
 ## 📫 Contribuindo para TradeUp API Test
 
