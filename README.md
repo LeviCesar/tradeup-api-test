@@ -1,4 +1,4 @@
-# TradeUp API Test
+# TradeUp Test
 ![Static Badge](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Python-3.8%7C3.9%7C3.10-blue?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Requests-2.31-blue?style=for-the-badge)
